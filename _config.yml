@@ -117,5 +117,9 @@ collections:
     output: true
     permalink: /:path/
 
+defaults:
+  - scope:
+      path: "app-ads.txt"
+
 # Markdown rendering
 markdown: kramdown
