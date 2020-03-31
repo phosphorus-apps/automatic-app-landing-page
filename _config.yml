@@ -42,16 +42,16 @@ features                                  :
     description                           : Create daily limits for a better digital balance in your life
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Get daily weekly information
-    description                           : 
+  - title                                 : Select a period for the stats
+    description                           : Stats for today, yesterday and last 7 days are available.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Dark and White Theme
+    description                           : If the white theme hurts your eyes at night, no problem use the dark one!
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Categorize Apps
+    description                           : See your phone usage within the default categories. Edit apps in the categories.
     fontawesome_icon_name                 : adjust
 
 
@@ -108,7 +108,6 @@ sass:
 
 # Exclude these files from your production _site
 exclude:
-  - LICENSE
   - README.md
   - CNAME
 
