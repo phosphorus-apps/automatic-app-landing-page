@@ -9,7 +9,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : /assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : /assets/appIcon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Digitox                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Digitox is designed to improve your digital well-being.
@@ -34,23 +34,23 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Analyse your screen time
+  - title                                 : Daily usage statistics
     description                           : To increase the awareness, you should definetely check your screen time to be aware of that.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Control it!
+  - title                                 : Limits!
     description                           : Create daily limits for a better digital balance in your life
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Select a period for the stats
+  - title                                 : Different Periods
     description                           : Stats for today, yesterday and last 7 days are available.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Dark and White Theme
+  - title                                 : Dark Theme Option
     description                           : If the white theme hurts your eyes at night, no problem use the dark one!
     fontawesome_icon_name                 : sync
 
-  - title                                 : Categorize Apps
+  - title                                 : Categorised screen time
     description                           : See your phone usage within the default categories. Edit apps in the categories.
     fontawesome_icon_name                 : adjust
 
