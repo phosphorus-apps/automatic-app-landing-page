@@ -7,23 +7,19 @@ include_in_header: false
 **Last updated**  
 August 1 2019
 
-# Privacy Policy
-Phosphorus Apps built the Digitox app as a Freemium app. This SERVICE is provided by Phosphorus Apps at no cost and is intended for use as is. 
+# Privacy Policy for any application provided by Phosphosrus
+This page is used to inform users regarding our policies with the collection, use, and disclosure of data if anyone decided to use our Apps. 
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. 
-
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. 
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Google Play Store unless otherwise defined in this Privacy Policy. 
+If you choose to our apps, then you agree to the collection and use of information in relation to this policy. 
 
 <br>
 
 ## 1.0 Information Collection and Use
-For a better experience, while using our Service, We may require you to provide us with certain personally identifiable information, including but not limited to nothing. The information that we request will be retained on your device and is not collected by us in any way. 
+For a better experience, while using our apps, We may require you to provide us with certain personally identifiable information, including but not limited to nothing. The information that we request will be retained on your device and is not collected by us in any way. 
 
-The app does use third party services that may collect information used to identify you. 
+The app does use third party services that may collect information used to anonymise you. 
 
-Link to privacy policy of third party service providers used by the app 
+Third party providers used by the app 
 
 - Google Play Services
 - Firebase Analytics
@@ -31,7 +27,7 @@ Link to privacy policy of third party service providers used by the app
 <br>
 
 ## 2.0 Links to Other Sites
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. we have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. 
+Our apps may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. we have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. 
 
 <br>
 
@@ -41,6 +37,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 <br>
 
 ## 4.0 Contact Us
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us at phosphorus.apps@gmail.com. 
+If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact us at phosphorus.apps@gmail.com. 
 
 <br>
